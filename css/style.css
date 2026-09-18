@@ -3978,11 +3978,11 @@ body.page-loaded .hero-stagger-visual {
 }
 
 .layer-graded {
-    background-image: url('cinematic_shot.jpg');
+    background-image: url('../images/cinematic_shot.jpg');
 }
 
 .layer-raw {
-    background-image: url('cinematic_shot.jpg');
+    background-image: url('../images/cinematic_shot.jpg');
     filter: saturate(0.18) contrast(0.68) brightness(1.15) blur(0.2px);
     clip-path: polygon(0 0, var(--clip-percent, 50%) 0, var(--clip-percent, 50%) 100%, 0 100%);
 }
